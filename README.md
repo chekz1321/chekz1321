@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chekz1321
+- 👋 Hi, My name is Chekwube Ononuju
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning Data Structures and Algorithms
 
